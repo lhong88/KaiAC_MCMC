@@ -9,7 +9,7 @@ This repository contains:
 
 2. An example MCMC run with input scripts and simulation outputs (`/example_run`). It is recommended to perform the simulations on a computing cluster.
 
-3. The phosphorylation dataset collected over a wide range of [KaiA] and %ATP conditions for model fitting (`/data`).
+3. A phosphorylation dataset for model fitting (`/data`).
 
 For a detailed description of the model, the fitting method, and the training dataset, see our preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/835280v1.abstract) or our paper in _Molecular Systems Biology_ (forthcoming).
 
