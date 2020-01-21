@@ -7,7 +7,7 @@ This repository contains:
 
 1. A package (`/Kai_MCMC`) for doing Bayesian Markov Chain Monte Carlo (MCMC) simulation on a kinetic model of the Kai oscillator.
 
-2. An example MCMC run with input scripts and simulation outputs (`/example_run`). It is recommended to perform the simulations on a computing cluster.
+2. An example MCMC run with input scripts and simulation outputs (`/example_run`). It is recommended to perform the simulations on a computing cluster. A Mathematica notebook for analysis is available in `/example_run/step5_sample`.
 
 3. A phosphorylation dataset for model fitting (`/data`).
 
