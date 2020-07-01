@@ -11,7 +11,7 @@ This repository contains:
 
 3. A phosphorylation dataset for model fitting (`/data`).
 
-For a detailed description of the model, the fitting method, and the training dataset, see our preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/835280v1.abstract) or our paper in _Molecular Systems Biology_ (forthcoming).
+For a detailed description of the model, the fitting method, and the training dataset, see our preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/835280v1.abstract) or our paper in [_Molecular Systems Biology_](https://www.embopress.org/doi/full/10.15252/msb.20199355).
 
 ------------
 Installation
